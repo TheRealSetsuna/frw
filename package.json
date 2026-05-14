@@ -1,0 +1,15 @@
+{
+  "name": "aternos-bot",
+  "version": "1.0.0",
+  "description": "Mineflayer bot for ReallyWorld",
+  "main": "sor.js",
+  "scripts": {
+    "start": "node sor.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.21.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
